@@ -1,0 +1,10 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h2 {
+  font-weight: bold;
+  color: #5f92e3;
+  text-align: center;
+}
